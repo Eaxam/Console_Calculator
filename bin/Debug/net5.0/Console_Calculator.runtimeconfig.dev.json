@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\AlpaPy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\AlpaPy\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\AlpaPy\Documents\Console_Calculator\bin\Debug\net5.0\Console_Calculator.exe
+C:\Users\AlpaPy\Documents\Console_Calculator\bin\Debug\net5.0\Console_Calculator.deps.json
+C:\Users\AlpaPy\Documents\Console_Calculator\bin\Debug\net5.0\Console_Calculator.runtimeconfig.json
+C:\Users\AlpaPy\Documents\Console_Calculator\bin\Debug\net5.0\Console_Calculator.runtimeconfig.dev.json
+C:\Users\AlpaPy\Documents\Console_Calculator\bin\Debug\net5.0\Console_Calculator.dll
+C:\Users\AlpaPy\Documents\Console_Calculator\bin\Debug\net5.0\ref\Console_Calculator.dll
+C:\Users\AlpaPy\Documents\Console_Calculator\bin\Debug\net5.0\Console_Calculator.pdb
+C:\Users\AlpaPy\Documents\Console_Calculator\obj\Debug\net5.0\Console_Calculator.csprojAssemblyReference.cache
+C:\Users\AlpaPy\Documents\Console_Calculator\obj\Debug\net5.0\Console_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlpaPy\Documents\Console_Calculator\obj\Debug\net5.0\Console_Calculator.AssemblyInfoInputs.cache
+C:\Users\AlpaPy\Documents\Console_Calculator\obj\Debug\net5.0\Console_Calculator.AssemblyInfo.cs
+C:\Users\AlpaPy\Documents\Console_Calculator\obj\Debug\net5.0\Console_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\AlpaPy\Documents\Console_Calculator\obj\Debug\net5.0\Console_Calculator.dll
+C:\Users\AlpaPy\Documents\Console_Calculator\obj\Debug\net5.0\ref\Console_Calculator.dll
+C:\Users\AlpaPy\Documents\Console_Calculator\obj\Debug\net5.0\Console_Calculator.pdb
+C:\Users\AlpaPy\Documents\Console_Calculator\obj\Debug\net5.0\Console_Calculator.genruntimeconfig.cache
