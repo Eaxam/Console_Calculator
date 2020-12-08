@@ -12,8 +12,8 @@ namespace Console_Calculator
 
             Console.WriteLine("Wtite Number 1");
 
-            number1 = double.Parse(Console.ReadLine());
-            
+            number1 = double.Parse(Console.ReadLine());  
+
             Console.WriteLine(" Write Operation + - * / ");
 
             operation = Console.ReadLine();
